@@ -1,0 +1,22 @@
+{
+  "name": "maha-lap",
+  "version": "1.0.0",
+  "description": "ทำนายเลขจากความฝัน",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sansinee/maha-lap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sansinee/maha-lap/issues"
+  },
+  "homepage": "https://github.com/Sansinee/maha-lap#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
